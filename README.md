@@ -33,5 +33,5 @@ my work combines curiosity, data analytics, machine learning and development to 
 - *Gmail* : patrickchiamaka2000@gmail.com
 - *Twitter* : @Patrick_Esther1
 
-###🌟 Motto
+### 🌟 Motto
 *"Do it with excellence, or not at all."*
