@@ -1,5 +1,5 @@
 # Hi, I'm Patrick Esther 👋
-**Data Scientist|Analyst|Developer**
+### Data Scientist|Analyst|Developer
 I'm a practical data scientist who loves solving real world probelm, uncovering meaningful insights and building intelligent data-driven solutions with data, code and visualization.
 my work combines curiosity, data analytics, machine learning and development to turn raw data into actionable knowledge and purposeful solutions.
 
