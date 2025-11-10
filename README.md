@@ -1,12 +1,12 @@
-# Hi, i'm Patrick Esther 👋
+# Hi, I'm Patrick Esther 👋
 **Data Scientist|Analyst|Developer**
 I'm a practical data scientist who loves solving real world probelm, uncovering meaningful insights and building intelligent data-driven solutions with data, code and visualization.
 my work combines curiosity, data analytics, machine learning and development to turn raw data into actionable knowledge and purposeful solutions.
 
 ### 💡 What I DO
-📊 Data Science & Analytics : exploratory data analysis, cleaning and visualizing data to uncover insights through storytelling, and modeling real-world data, finding patterns that others overlook.
-🏫 Machine learning : building and evaluating predictive models, building models that make sense of messy data.
-💻 Data-Driven Development & visualization : creating smart, functional and insightful applications while also creating clean, thoughtful visuals that tell clear stories and build dashboards
+**📊 Data Science & Analytics** : exploratory data analysis, cleaning and visualizing data to uncover insights through storytelling, and modeling real-world data, finding patterns that others overlook.
+**🏫 Machine learning** : building and evaluating predictive models, building models that make sense of messy data.
+**💻 Data-Driven Development & visualization** : creating smart, functional and insightful applications while also creating clean, thoughtful visuals that tell clear stories and build dashboards
 
 ### 🛠 Tools & Languages
 **Languages** : Python, SQL
