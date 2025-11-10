@@ -4,14 +4,14 @@ I'm a practical data scientist who loves solving real world probelm, uncovering 
 my work combines curiosity, data analytics, machine learning and development to turn raw data into actionable knowledge and purposeful solutions.
 
 ### 💡 What I DO
-**📊 Data Science & Analytics** : exploratory data analysis, cleaning and visualizing data to uncover insights through storytelling, and modeling real-world data, finding patterns that others overlook.
-**🏫 Machine learning** : building and evaluating predictive models, building models that make sense of messy data.
-**💻 Data-Driven Development & visualization** : creating smart, functional and insightful applications while also creating clean, thoughtful visuals that tell clear stories and build dashboards
+- **📊 Data Science & Analytics** : exploratory data analysis, cleaning and visualizing data to uncover insights through storytelling, and modeling real-world data, finding patterns that others overlook.
+- **🏫 Machine learning** : building and evaluating predictive models, building models that make sense of messy data.
+- **💻 Data-Driven Development & visualization** : creating smart, functional and insightful applications while also creating clean, thoughtful visuals that tell clear stories and build dashboards
 
 ### 🛠 Tools & Languages
-**Languages** : Python, SQL
-**Libraries** : Pandas, Numpy, Scikit-learn, matplotlib, seaborn, streamlit
-**Tools** : Tableau, Git,  Github, jupyter notebook, DVC
+- **Languages** : Python, SQL
+- **Libraries** : Pandas, Numpy, Scikit-learn, matplotlib, seaborn, streamlit
+- **Tools** : Tableau, Git,  Github, jupyter notebook, DVC
 
 ### 🚀 Featured Project
 **🏚 Buenos Aires Property Prediction**
