@@ -14,8 +14,9 @@ my work combines curiosity, data analytics, machine learning and development to 
 - **Tools** : Tableau, Git,  Github, jupyter notebook, DVC
 
 ### 🚀 Featured Project
-**🏚 Buenos Aires Property Prediction**
- Predicting real estate prices in Buenos Aires using data analytics and machine learning.
+- **🏚 Buenos Aires Property Prediction**
+- https://github.com/Essie224/Buenos_aires_property_prediction
+  Predicting real estate prices in Buenos Aires using data analytics and machine learning.
 
  ### 🧠 Currently Learning
  - Advanced Machine Learning
