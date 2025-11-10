@@ -29,9 +29,9 @@ my work combines curiosity, data analytics, machine learning and development to 
 **💖 Faith & Purpose** : I work with intergrity and meaning.
 
 ### 🏎 Connect with me
-*Linkedin* : linkedin.com/in/esther-patrick-3b0190379
-*Gmail* : patrickchiamaka2000@gmail.com
-*Twitter* : @Patrick_Esther1
+- *Linkedin* : linkedin.com/in/esther-patrick-3b0190379
+- *Gmail* : patrickchiamaka2000@gmail.com
+- *Twitter* : @Patrick_Esther1
 
 ###🌟 Motto
 *"Do it with excellence, or not at all."*
